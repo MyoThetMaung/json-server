@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Welcome to England",
+      "body": "    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae in suscipit impedit adipisci nam aperiam asperiores rem nemo eum atque? Beatae distinctio eos veniam perspiciatis vitae culpa pariatur ipsa excepturi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias ipsum vitae voluptatem rerum omnis provident sit iste, dolor vero possimus optio minus perferendis deleniti praesentium consequatur laborum quibusdam repellendus iure!",
+      "likes": 40
+    },
+    {
+      "id": 3,
+      "title": "Welcome to Korea",
+      "body": "    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae in suscipit impedit adipisci nam aperiam asperiores rem nemo eum atque? Beatae distinctio eos veniam perspiciatis vitae culpa pariatur ipsa excepturi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias ipsum vitae voluptatem rerum omnis provident sit iste, dolor vero possimus optio minus perferendis deleniti praesentium consequatur laborum quibusdam repellendus iure!",
+      "likes": 50
+    }
+  ],
+  "pools": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue or React",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
